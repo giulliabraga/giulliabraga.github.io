@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+* {font-family: 'Roboto', sans-serif;}
+/* MENU */
+.logo{
+width: 20%;
+height: 10%;
+}
+.green-txt{ color:#54D1BB ; }
+.white-txt{ color: #FFFFFF; }
+.blue-txt{ color: #2F4076; }
+.yellow-txt{ color: #F1C205; }
+.purple-txt{ color: #3D1E69; }
+.contact{ 
+    background:  linear-gradient(180deg, #46BEB2 0%, #3A7C95 100%);
+    width: 1440px;
+    padding: 20px 0px;
+}
